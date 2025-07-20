@@ -1,0 +1,9 @@
+benchmark.o.riscv
+accellib.o.riscv
+benchmark.o.x86
+benchmark.pb.cc
+benchmark.pb.h
+benchmark.pb.o.riscv
+benchmark.pb.o.x86
+benchmark.riscv
+benchmark.x86
